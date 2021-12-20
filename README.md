@@ -21,4 +21,4 @@ With 20+ external certifications on various technologies and few titles are,
 - IBM Certified Solution Developer
 - Microsoft Certified Technology Specialist
 
-Profile : https://dcnsakthi.github.io/
+<a href="https://dcnsakthi.github.io/" target="_blank">Profile</a> | <a href="https://www.credly.com/users/dcnsakthi/badges" target="_blank">Badges</a> | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a>
