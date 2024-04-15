@@ -12,6 +12,7 @@ With 20+ external certifications on various technologies and few titles are,
 - Microsoft Certified Cybersecurity Architect
 - Microsoft Certified DevOps Engineer
 - ISC2 Certified in Cybersecurity
+- Microsoft Certified Fabric Analytics Engineer
 - Microsoft Certified Azure Data Engineer
 - Microsoft Certified Azure Data Scientist
 - Microsoft Certified Data Analyst
