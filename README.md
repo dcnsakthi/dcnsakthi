@@ -1,13 +1,11 @@
 
-## Sakthivel Nachimuthu (Senior Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
+## Sakthivel Nachimuthu (Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 
-Forward-thinking consultant and technologist with 16+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
+Forward-thinking Architect and technologist with 17+ years of experience, enhancing digital-age performance for Fortune X companies through innovative systems architecture. Expert in integrating business practices with Big Data, Data Science, and Cloud technologies to foster a data-driven, customer-centric culture.
 
-Internaltional, Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, energy & utility, semiconductor, agriculture, and government organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sams, Informatica, GlobalFoundries, Microsoft, Apple, Toyota, Olam, GovTech, Sembcorp and Marks & Spencer.
-
+International, cross-industry expertise in cloud-based solution architecture across retail, manufacturing, banking, energy, semiconductor, agriculture, and government sectors in Singapore, the US, the UK, Canada, and India. Clients include Walmart, Sams, Informatica, GlobalFoundries, Microsoft, Apple, Toyota, Olam, GovTech, Sembcorp, and Marks & Spencer.
 
 With 20+ external certifications on various technologies and few titles are,
-
 - Microsoft Certified Cloud Solution Architect
 - Microsoft Certified Cybersecurity Architect
 - Microsoft Certified DevOps Engineer
