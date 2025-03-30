@@ -1,25 +1,30 @@
 ## Sakthivel Nachimuthu (Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 
-Forward-thinking Architect and technologist with 17+ years of experience, enhancing digital-age performance for Fortune X companies through innovative systems architecture. Expert in integrating business practices with Big Data, Data Science, and Cloud technologies to foster a data-driven, customer-centric culture.
+Forward-thinking consultant and technologist with 17+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
-International, cross-industry expertise in cloud-based solution architecture across retail, manufacturing, banking, energy, semiconductor, agriculture, and government sectors in Singapore, the US, the UK, Canada, and India. Clients include Walmart, Sams, Informatica, GlobalFoundries, Microsoft, Apple, Toyota, Olam, GovTech, Sembcorp, and Marks & Spencer.
+International, cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam’s, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
-With over 20 external certifications in various technologies, including titles such as:
+Presented below is a comprehensive portfolio of my credentials, highlighting expertise across a wide range of technologies and experiences.
 
-- Microsoft Certified Cloud Solution Architect
-- Microsoft Certified Cybersecurity Architect
-- Microsoft Certified DevOps Engineer
-- ISC2 Certified in Cybersecurity
-- Microsoft Certified Fabric Analytics Engineer
-- Microsoft Certified Azure Data Engineer
-- Microsoft Certified Azure Data Scientist
-- Microsoft Certified Data Analyst
-- Microsoft Certified Azure Developer
-- Microsoft Certified Azure Security Engineer
-- Microsoft Certified Azure Administrator
-- Microsoft Certified Azure Database Administrator
+- Microsoft Certified Azure Solution Architect (Expert)
+- Microsoft Certified Cybersecurity Architect (Expert)
+- Microsoft Certified DevOps Engineer (Expert)
+- Microsoft Certified Fabric Analytics Engineer (Associate)
+- Microsoft Certified Azure Data Engineer (Associate)
+- Microsoft Certified Azure Data Scientist (Associate)
+- Microsoft Certified Data Analyst (Associate)
+- Microsoft Certified Azure Database Administrator (Associate)
+- Microsoft Certified Azure Security Engineer (Associate)
+- Microsoft Certified Azure Developer (Associate)
+- Microsoft Certified Azure Administrator (Associate)
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified Professional (MCP)
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
-- Microsoft Certified Technology Specialist
+- Microsoft Certified Technology Specialist (MCTS)
 
-<a href="https://dcnsakthi.github.io/" target="_blank">Profile</a> | <a href="https://www.credly.com/users/dcnsakthi/badges" target="_blank">Badges</a> | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a> | <a href="https://github.com/dcnsakthi?tab=repositories" target="_blank">GitHub</a> | <a href="https://www.credly.com/users/dcnsakthi/badges" target="_blank">Badges</a> | <a href="https://cv.nsakthi.com/" target="_blank">CV</a> |
+
+Thank you!!
+
+Best Regards, Sakthi
