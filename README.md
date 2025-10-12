@@ -252,41 +252,40 @@ Solution Architecture | Generative AI | Cloud Computing | Big Data Analytics | C
 ### **Governance & DevOps**
 
 ```yaml
-Governance: Purview, Informatica EDC, Atlas, Responsible AI
-DevOps: DataOps, MLOps, DevSecOps, AIOps, LLMOps
-Containers: MLFlow, ACR, DockerHub, Quay, Docker, Kubernetes, OpenShift
+Governance: Microsoft Purview, Informatica EDC, Apache Atlas, Responsible AI
+DevOps: DataOps, MLOps, DevSecOps, AIOps, LLMOps, DevOps
+Containers: Kubernetes, Docker, ACR, DockerHub, Quay, OpenShift, AKS
 Version Control: Azure DevOps, GitHub, JIRA, SVN, Bitbucket, GitLab
 IaC: Terraform, ARM, Bicep
 Package Mgmt: PyPI, Maven, Node, Nuget
 Collaboration: SharePoint, Confluence
-Security: Data Security, AI Security/Guardrails, Entra ID, APIM, VPN, Devbox
+Security: Data Security, AI Security/Guardrails, Entra ID, APIM, VPN, DevBox
 ```
 
 ### **Data Stores**
 
 ```yaml
-Cloud Storage: HDFS, ABFS, S3, ADLS, DBFS, Google Storage, OneDrive, SharePoint
+Cloud Storage: OneLake, HDFS, ABFS, S3, ADLS, DBFS, Google Storage, OneDrive, SharePoint
 Databases: SQL Server, Oracle, PostgreSQL, MySQL, DB2, Teradata, MariaDB
 NoSQL: Cosmos DB, MongoDB, AI Search, Vector Store
-Analytics: ThoughtSpot, Druid, atScale, SSAS, XMLA, AAS, Big Query
+Analytics: ThoughtSpot, Druid, atScale, SSAS, XMLA, AAS, Big Query, Snowflake
 Lake: Databricks Delta, Fabric OneLake, Data Explorer/Event House
 Streaming: EventHub, IoT Hub, Kafka, Confluent, EventStream
-Governance: Microsoft Purview, Informatica EDC, Apache Atlas 
 ```
 
 ### **Technology Stack**
 
 ```yaml
 Cloud Platforms: Microsoft Azure, GCP, AWS
-AI/ML: Generative AI, LLM, Agentic AI, Copilot, MCP, AI Foundry
+AI/ML: Generative AI, LLM, Agentic AI, Copilot, MLFlow, AML, MCP, AI Foundry, OpenAI, Databricks
 Big Data: Hortonworks, Cloudera, Spark, Databricks
 Languages: Python, T-SQL, Java, C# .NET, Scala, Node JS, Shell, PowerShell
-Orchestration: Airflow, Data Factory, IICS, AKS
+Orchestration: Airflow, Data Factory, IICS, RPA, PowerAutomate/CloudFlow
 BI Stack: MSBI Stack (SSIS, SSAS, SSRS)
 OS: Windows, Linux, Mac
 Copilot: GitHub Copilot, M365 Copilot, Copilot Studio, Fabric Data Agent
 HPC: Supercomputer Infrastructure
-Security: Cybersecurity, Entra ID, Data Security
+Cybersecurity: Zero Trust, Networking, Private Links/Endpoints
 ```
 
 ### **Analytics & Data Science**
