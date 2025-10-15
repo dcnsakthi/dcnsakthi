@@ -92,12 +92,14 @@ International, cross-industry experience in defining cloud-based solution archit
 
 - 🏗️ Designed and implemented **Gen AI, Data Science, and Analytics** architectures with multilayered security for government and enterprise customers
 - 🚀 Drove AI-led strategy within Microsoft's ISD Engineering & Architecture Group to enable regional transformation through scalable Cloud, Security, Data, and AI solutions
+- 🤖 Led a globally distributed team in designing, testing, and deploying enterprise-scale Application and Data & AI solutions for High-Performance Computing (HPC) supercomputer infrastructure
 - 🤝 Led **Microsoft Fabric Insider** deep technical community for ISD, fostering collaboration between Engineering teams and Customers
 
 **🌤️ Major Project Highlights**
 
 - ☁️ **UK Met Office Cloud Transformation**: Led strategic initiative migrating and rearchitecting supercomputing workloads for national weather forecasting, managing zettabytes of climate data
 - 🏛️ **Singapore Smart Nation**: Served as Certified Government on Commercial Cloud (GCC) Architect supporting agencies under MND, MHA, MSE, MOT, and MTI
+- 🔌 **Agentic AI Solutions**: Architected and deployed Generative AI solutions across multiple enterprise environments, enabling diverse use cases from automation to customer engagement
 
 **🌱 Sustainability & Innovation**
 
